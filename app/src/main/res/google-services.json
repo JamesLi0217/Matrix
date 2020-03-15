@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "850444724927",
+    "firebase_url": "https://matrix-mar8-james.firebaseio.com",
+    "project_id": "matrix-mar8-james",
+    "storage_bucket": "matrix-mar8-james.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850444724927:android:b2f7b00b6c8e0854f7f40a",
+        "android_client_info": {
+          "package_name": "com.laioffer.matrix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850444724927-jcmndrjtirg87ebr9u2p7n5uchg41thj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALiLcvhxGzAWst9bOS2GXKuVOHiNAuDJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850444724927-jcmndrjtirg87ebr9u2p7n5uchg41thj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
